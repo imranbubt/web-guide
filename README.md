@@ -4,7 +4,6 @@ This guide is a compilation of resources for full stack web development.
 
 The layout of this guide is borrowed from [Traversy Media's Web Development Guide](https://www.youtube.com/watch?v=UnTQVlqmDQ0) with additional links to resources. 
 
->[![Everything Is AWESOME]( "Web Development in 2019: A Practical Guide")
 
 ## Table of Contents
 - [General Resources](#General-Resources)
